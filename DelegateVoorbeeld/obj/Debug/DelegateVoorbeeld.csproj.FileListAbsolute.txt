@@ -1,0 +1,6 @@
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\bin\Debug\DelegateVoorbeeld.exe.config
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\obj\Debug\DelegateVoorbeeld.csprojResolveAssemblyReference.cache
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\bin\Debug\DelegateVoorbeeld.exe
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\bin\Debug\DelegateVoorbeeld.pdb
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\obj\Debug\DelegateVoorbeeld.exe
+C:\Users\Frederik\Documents\visual studio 3TIN projects\DelegateVoorbeeld\DelegateVoorbeeld\obj\Debug\DelegateVoorbeeld.pdb
